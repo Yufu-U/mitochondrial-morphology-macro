@@ -24,4 +24,4 @@ The macro automates only specific steps of the analysis workflow. Several steps,
 - Analysis results may vary depending on user-defined parameters and manual operations.
 
 ## License
-This code is provided without restriction to facilitate reproducibility and reuse.
+This code is released under the CC0 1.0 Universal license.
